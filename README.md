@@ -1,4 +1,4 @@
-# Shopping-Cart-Management-System-JSPt
+# Shopping-Cart-Management-System-JSP
 
 # ShoppingCarJSPMiniProject
 
